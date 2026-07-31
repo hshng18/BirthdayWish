@@ -1,28 +1,28 @@
 
 const PHOTOS = [
-  { file: "images/Pic1.jpeg", caption: "My favorite distraction. ❤️‍🔥" },
-  { file: "images/Pic2.jpeg", caption: "I get to call her mine. 😏" },
-  { file: "images/Pic3.jpeg", caption: "My favorite person in every frame" },
-  { file: "images/Pic4.jpeg", caption: "She's the flex." },
-  { file: "images/Pic5.jpeg", caption: "I won the lottery the day I met you." },
-  { file: "images/Pic6.jpeg", caption: "This is what happiness actually looks like" },
-  { file: "images/Pic7.jpeg", caption: "Beauty with a dangerous smile." },
-  { file: "images/Pic8.jpeg", caption: "Warning: dangerously cute" },
-  { file: "images/Pic9.jpeg", caption: "Mera baccha, forever and always 🌸" },
-  { file: "images/Pic10.jpeg", caption: "My ras malai — soft, sweet, and completely irreplaceable" },
-  { file: "images/Pic11.jpeg", caption: "Not all love stories are romantic — some are just us" },
-  { file: "images/Pic12.jpeg", caption: "She's the definition of \"wow.\"" },
-  { file: "images/Pic13.jpeg", caption: "She doesn't chase attention—she owns it." },
-  { file: "images/Pic14.jpeg", caption: "Meri ras malai, sweeter than the real thing" },
-  { file: "images/Pic15.jpeg", caption: "My person. My peace. My cutie." },
-  { file: "images/Pic16.jpeg", caption: "My favorite headache, my favorite everything" },
-  { file: "images/Pic17.jpeg", caption: "My favorite chapter, still being written" },
-  { file: "images/Pic18.jpeg", caption: "Every angle is her best angle." },
+  { file: "Pic1.jpeg", caption: "My favorite distraction. ❤️‍🔥" },
+  { file: "Pic2.jpeg", caption: "I get to call her mine. 😏" },
+  { file: "Pic3.jpeg", caption: "My favorite person in every frame" },
+  { file: "Pic4.jpeg", caption: "She's the flex." },
+  { file: "Pic5.jpeg", caption: "I won the lottery the day I met you." },
+  { file: "Pic6.jpeg", caption: "This is what happiness actually looks like" },
+  { file: "Pic7.jpeg", caption: "Beauty with a dangerous smile." },
+  { file: "Pic8.jpeg", caption: "Warning: dangerously cute" },
+  { file: "Pic9.jpeg", caption: "Mera baccha, forever and always 🌸" },
+  { file: "Pic10.jpeg", caption: "My ras malai — soft, sweet, and completely irreplaceable" },
+  { file: "Pic11.jpeg", caption: "Not all love stories are romantic — some are just us" },
+  { file: "Pic12.jpeg", caption: "She's the definition of \"wow.\"" },
+  { file: "Pic13.jpeg", caption: "She doesn't chase attention—she owns it." },
+  { file: "Pic14.jpeg", caption: "Meri ras malai, sweeter than the real thing" },
+  { file: "Pic15.jpeg", caption: "My person. My peace. My cutie." },
+  { file: "Pic16.jpeg", caption: "My favorite headache, my favorite everything" },
+  { file: "Pic17.jpeg", caption: "My favorite chapter, still being written" },
+  { file: "Pic18.jpeg", caption: "Every angle is her best angle." },
 ];
 
 const VIDEOS = [
-  { file: "videos/vid1.mp4", caption: "Proof that my taste is elite. 😌" },
-  { file: "videos/vid2.mp4", caption: "Respectfully... wow. 😮‍💨" },
+  { file: "vid1.mp4", caption: "Proof that my taste is elite. 😌" },
+  { file: "vid2.mp4", caption: "Respectfully... wow. 😮‍💨" },
 ];
 
 /* ========================================================================= */
