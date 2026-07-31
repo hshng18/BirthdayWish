@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Gallery — for Bhavu</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<nav class="site-nav">
+  <a href="index.html" class="brand">for Bhavu 🌸</a>
+  <ul class="nav-links">
+    <li><a href="index.html">Home</a></li>
+    <li><a href="gallery.html" class="active">Gallery</a></li>
+    <li><a href="videos.html">Videos</a></li>
+    <li><a href="notes.html">Notes</a></li>
+  </ul>
+</nav>
+
+<section class="wrap">
+  <div class="section-head">
+    <p class="eyebrow">every picture, a little proof</p>
+    <h2>Our Gallery</h2>
+    <p class="muted">Every photo that made me smile more than it should have.</p>
+  </div>
+
+  <div id="gallery-grid" class="grid"></div>
+
+  <div id="gallery-empty" class="empty-state" style="display:none;">
+    No photos added yet 🌸<br>
+    Drop your images into the <code>/images</code> folder, then add them to the
+    <code>PHOTOS</code> list at the top of <code>js/script.js</code>, like this:
+    <br><br>
+    <!-- <code>{ file: "Pic1.jpeg", caption: "That perfect evening" }</code> -->
+  </div>
+</section>
+
+<footer>Made with a little bit of ras malai and a lot of love, for my Bhavu  🌸</footer>
+
+<div class="lightbox" id="lightbox">
+  <button class="lightbox-close" id="lightbox-close" aria-label="Close">&times;</button>
+  <div id="lightbox-stage"></div>
+</div>
+
+<script src="js/script.js"></script>
+</body>
+</html>
